@@ -1,6 +1,8 @@
 ﻿namespace Parp1;
 
-public class Huslfue
+public class Husflue : BUG
 {
-    
+    public Husflue()
+    {
+    }
 }
